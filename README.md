@@ -1,4 +1,4 @@
-# dataanalysis
+# Data Analysis
 Repositorio de curso de data analysis
 
 
